@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_all?(collection)
+
 #require_relative "../lib/my_all.rb"
 def my_all? (collection)
 i = 0 
