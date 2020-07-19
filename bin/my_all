@@ -12,6 +12,6 @@ if block_return_values.include?(false)
 else
 return true 
 end
-end
+
 
 #my_all?([1,2,3]) {|i| i < 2}
